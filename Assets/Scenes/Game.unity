@@ -421,6 +421,11 @@ Prefab:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1691466376}
+    - target: {fileID: 114000182040299604, guid: 47bf0a3efdd2d41439adb18d11c99799,
+        type: 2}
+      propertyPath: m_Text
+      value: Press A,D to move. Space to jump
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 47bf0a3efdd2d41439adb18d11c99799, type: 2}
   m_IsPrefabParent: 0
